@@ -22,3 +22,4 @@ Read 14 | [class 14](https://401-advanced-javascript-anolla.github.io/reading-no
 Read 15 | [class 15](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-15)
 Read 16 | [class 16](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-16)
 Read 17 | [class 17](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-17)
+Read 18 | [class 18](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-18)
