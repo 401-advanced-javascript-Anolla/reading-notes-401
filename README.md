@@ -38,4 +38,4 @@ Read 36 | [class 36](https://401-advanced-javascript-anolla.github.io/reading-no
 Read 37 | [class 37](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-37)
 Read 38 | [class 38](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-38)
 Read 39 | [class 39](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-39)
-Read 40 | [class 41](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-41)
+Read 41 | [class 41](https://401-advanced-javascript-anolla.github.io/reading-notes-401/class-41)
